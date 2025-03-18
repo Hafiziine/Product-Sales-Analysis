@@ -4,7 +4,7 @@
 _Click [Here](https://app.powerbi.com/view?r=eyJrIjoiMTM4YmU1YTktN2RmZS00NDhiLTllYmQtODMwNzQ0MDE3OWJmIiwidCI6ImQ5MTZmMWVjLTA3MDktNDIzNC1iNDgyLTljYjIyOGUwZDk5NyJ9) to interact with the Dashboard_
 
 ## **Overview**
-This report presents a comprehensive analysis of product sales performance for D&T Musical Store. Leveraging Power BI, I analyzed key sales metrics, customer segments, product categories, and regional performance to derive actionable insights for business growth.
+This report presents a comprehensive analysis of product sales performance for D&T Musical Store. Leveraging MS SQL, and Power BI, I analyzed key sales metrics, customer segments, product categories, and regional performance to derive actionable insights for business growth.
 
 ## **Key Metrics Summary**
 - **Revenue:** $2.96M
