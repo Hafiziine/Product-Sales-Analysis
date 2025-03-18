@@ -1,4 +1,6 @@
 # **Product Sales Analysis - D&T Musical Store**
+[]!
+_Click [Here](https://app.powerbi.com/view?r=eyJrIjoiMTM4YmU1YTktN2RmZS00NDhiLTllYmQtODMwNzQ0MDE3OWJmIiwidCI6ImQ5MTZmMWVjLTA3MDktNDIzNC1iNDgyLTljYjIyOGUwZDk5NyJ9) to interact with the Dashboard_
 
 ## **Overview**
 This report presents a comprehensive analysis of product sales performance for D&T Musical Store. Leveraging Power BI, I analyzed key sales metrics, customer segments, product categories, and regional performance to derive actionable insights for business growth.
