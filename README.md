@@ -1,5 +1,6 @@
 # **Product Sales Analysis - D&T Musical Store**
-[]!
+![](DASHBOARD_IMAGE.png)
+
 _Click [Here](https://app.powerbi.com/view?r=eyJrIjoiMTM4YmU1YTktN2RmZS00NDhiLTllYmQtODMwNzQ0MDE3OWJmIiwidCI6ImQ5MTZmMWVjLTA3MDktNDIzNC1iNDgyLTljYjIyOGUwZDk5NyJ9) to interact with the Dashboard_
 
 ## **Overview**
